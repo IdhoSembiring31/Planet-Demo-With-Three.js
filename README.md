@@ -2,6 +2,7 @@
 
 A simple 3D planet demo built using **Three.js** and **Vite**.  
 This project showcases the fundamentals of WebGL-based 3D rendering on the web, including scene setup, camera control, and basic object visualization.
+<img width="1866" height="733" alt="image" src="https://github.com/user-attachments/assets/5573c5a3-7d2e-4f8c-8ad3-257f161dbf14" />
 
 ---
 
